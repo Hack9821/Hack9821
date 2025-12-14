@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hack9821
+- 👋 Hi, I’m @Henri joel
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on my project
